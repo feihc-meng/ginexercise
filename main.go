@@ -15,5 +15,5 @@ func main() {
 	fmt.Println("gitee test2")
 	fmt.Println("测试一下，如何区分是与GitHub的操作，还是与Gitee的操作")
 	fmt.Println("测试一下，是与Gitee的操作")
-
+    fmt.Println("测试一下，是Gitee响应过来的操作")
 }
