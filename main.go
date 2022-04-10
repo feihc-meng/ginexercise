@@ -9,5 +9,6 @@ func main() {
 	fmt.Println("hello git4!")
 	fmt.Println("master test!")
 	fmt.Println("hot-fix test1")
+	fmt.Println("push test1")
 
 }
