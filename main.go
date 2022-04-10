@@ -12,5 +12,5 @@ func main() {
 	fmt.Println("push test1")
 	fmt.Println("pull test1")
 	fmt.Println("gitee test1")
-
+    fmt.Println("gitee test2")
 }
