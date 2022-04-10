@@ -12,5 +12,6 @@ func main() {
 	fmt.Println("push test1")
 	fmt.Println("pull test1")
 	fmt.Println("gitee test1")
-    fmt.Println("gitee test2")
+    	fmt.Println("gitee test2")
+	fmt.Println("测试一下，如何区分是与GitHub的操作，还是与Gitee的操作")
 }
