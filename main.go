@@ -11,5 +11,6 @@ func main() {
 	fmt.Println("hot-fix test1")
 	fmt.Println("push test1")
 	fmt.Println("pull test1")
+	fmt.Println("gitee test1")
 
 }
